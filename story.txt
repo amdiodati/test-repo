@@ -1,2 +1,2 @@
 Chapter 0
-There is an initial adding of the text file.
+There was an initial adding of the text file.
