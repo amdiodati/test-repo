@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 :Chapter 0
 There was an initial adding of the text file.
 
 AMD
+
+Chapter 0
+There was an initial adding of the text file.
+RW
+>>>>>>> 012920ed36706fa8ddb584d3eec105402bb81d2d
